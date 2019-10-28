@@ -576,6 +576,18 @@ body .bar_group__bar.thin {
     transition: width 2s;
 
 }
+#html {
+    width: 85%;
+}
+#css {
+    width: 80%;
+}
+#javascript {
+    width: 50%;
+}
+#python {
+    width: 50%;
+}
 .bar_group{
     position: relative;
     z-index: 1;
